@@ -9,7 +9,7 @@ This project implements a camera-based object detection and tracking system usin
 First, you need to download the nuScenes mini dataset:
 
 1. Visit the [nuScenes website](https://www.nuscenes.org/download) and create an account
-2. Download the "v1.0-mini" dataset
+2. Download the "v1.0-mini" dataset (approximately 5GB)
 3. Extract the dataset to the project directory
 4. Ensure the dataset folder is named `v1.0-mini` in the project root
 
